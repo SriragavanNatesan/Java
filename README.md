@@ -1,3 +1,3 @@
 # Java
 
-Java intervier preparation
+Java interview preparation
